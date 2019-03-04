@@ -2,7 +2,7 @@
 title: Let the framewars begin!
 ---
 
-Hey everyone, I'm Nicolas Marcora and this is my friend Brandon Lyons. For a while now, Brandon and I have been bickering about which JavaScript UI Framework/library is better (spoiler alert: it's totally React, but he thinks it's Vue for some odd reason that still escapes me).
+Hey everyone, I'm Nicolas Marcora, together with my very talented friend, Brandon Lyons. For a while now, Brandon and I have been bickering about which JavaScript UI Framework/library is better (spoiler alert: it's totally React, but he thinks it's Vue for some odd reason that still escapes me).
 
 One day, not very long ago at all, we realised that in the last couple of years we've both ended up getting comfortable with our respective frameworks, and that merely swinging our frameworks around was not going to get us anywhere, so we've decided to leave our trenches and form a truce.
 
