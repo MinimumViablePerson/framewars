@@ -8,4 +8,4 @@ One day, not very long ago at all, we realised that in the last couple of years 
 
 Long story short, we'll be talking to each other about how Vue and React compare, starting from the very foundations to perhaps building some more advanced, real apps. Along the way, we will also probably be discussing other new and shiny JS tech as well as everything else under the web development sun.
 
-And since we'll be doing all that, we thought we might as well record it and share it with the world, in case anyway's interested. So stay tuned for Framewars!
+And since we'll be doing all that, we thought we might as well record it and share it with the world, in case anyone is interested. So stay tuned for Framewars!
